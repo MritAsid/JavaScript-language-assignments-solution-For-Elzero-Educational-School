@@ -94,7 +94,7 @@ let num4 = 33;
   True 7 Times
 */
 
-// Condition 1
+/* // Condition 1
 
 if (num1 > num2) {
   console.log("True");
@@ -151,3 +151,4 @@ if (num4 - (num1 + num3) + num2 === 21) {
 }
 
 console.log(33 - 22 + 10);
+ */
